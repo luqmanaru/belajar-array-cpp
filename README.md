@@ -7,15 +7,6 @@ Program ini merupakan contoh implementasi array satu dimensi dalam bahasa C++. P
 
 ---
 
-## 💾 Output Program
-
-```
-Elemen array nilai adalah sebagai berikut:
-6 2 6 8 -2
-```
-
----
-
 ## 🧠 Fitur
 
 - Inisialisasi elemen array secara manual
